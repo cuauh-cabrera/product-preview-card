@@ -56,7 +56,6 @@
   <ul>
     <li><a href="https://html.spec.whatwg.org/">HTML5</a></li>
     <li><a href="https://www.w3.org/Style/CSS/">CSS</a></li>
-    <li><a href="https://git-scm.com/">Git</a></li>
   </ul>
 </details>
 
